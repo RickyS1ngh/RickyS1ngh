@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Entry-Level Software Engineer passionate about solving real-world problems in medical field.</h3>
+<h3 align="center">Entry-Level Software Engineer passionate about solving real-world problems in the medical field using technology</h3>
 
 ###
 
