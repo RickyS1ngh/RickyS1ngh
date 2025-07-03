@@ -107,14 +107,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RickyS1ngh&show_icons=true&count_private=true&theme=dracula&hide_border=false" width="400px" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=RickyS1ngh&theme=dracula&hide_border=false&border_radius=5" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyS1ngh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
 <br />
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyS1ngh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+
 
 
 
