@@ -21,7 +21,7 @@ I'm a Bronx, New York native with a B.S. in Computer Science from Fordham Univer
 ## 🗂️ Currently Working On
 
 - Personal Portfolio Website  
-- Thyroid Data Analysis  
+- Health App Development  
 
 ---
 
