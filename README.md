@@ -6,7 +6,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-I'm a Bronx, New York native with a B.S. in Computer Science from Fordham University. I'm deeply passionate about using technological innovation to solve real-world problems, particularly in advancing medical technology. I'm committed to improving lives and addressing challenging diseases while serving my community through tech.
+I'm a Bronx, New York native with a B.S. in Computer Science from Fordham University and currently pursuing my Masters degree at Stevens Institute of Technology. I'm deeply passionate about using technological innovation to solve real-world problems, particularly in advancing medical technology. I'm committed to using innovation to improve the medical field, address challenging diseases, and serve my community in the Bronx by building technology that improves lives.
 
 ---
 
