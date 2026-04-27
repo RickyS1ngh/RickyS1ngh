@@ -1,29 +1,15 @@
 <h1 align="center">Hi there, I'm Ricky 👋</h1>
 
-<h3 align="center">Entry-Level Software Engineer passionate about solving real-world problems in the medical field using technology</h3>
+<h3 align="center">Software Engineer passionate about building technology that solves real world problems.</h3>
 
 ---
 
 ## 🧑🏻‍💻 About Me
 
-I'm a Bronx, New York native with a B.S. in Computer Science from Fordham University and currently pursuing my Masters degree at Stevens Institute of Technology. I'm deeply passionate about using technological innovation to solve real-world problems, particularly in advancing medical technology. I'm committed to using innovation to improve the medical field, address challenging diseases, and serve my community in the Bronx by building technology that improves lives.
+I'm a Bronx, New York native with a B.S. in Computer Science from Fordham University and currently pursuing my M.S in Computer Science at Fordham University.
 
 ---
 
-## 📚 Currently Reading
-
-- *Zero to One* — Peter Thiel  
-- *Software Engineering at Google* — Titus Winters, Tom Manshreck, Hyrum Wright  
-- *Clean Code* — Robert C. Martin  
-
----
-
-## 🗂️ Currently Working On
-
-- Personal Portfolio Website  
-- Health App Development  
-
----
 
 ## 💻 Tech Stack
 
