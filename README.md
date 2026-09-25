@@ -53,12 +53,6 @@ I'm a Bronx, New York native with a B.S. in Computer Science from Fordham Univer
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RickyS1ngh&show_icons=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800"
-    width="48%"
-    style="margin-right:1%;"
-    alt="GitHub Stats"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=RickyS1ngh&theme=dracula&hide_border=false"
     width="51%"
     alt="GitHub Streak"
@@ -66,13 +60,6 @@ I'm a Bronx, New York native with a B.S. in Computer Science from Fordham Univer
 </p>
 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyS1ngh&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=1800"
-    width="48%"
-    alt="Most Used Languages"
-  />
-</p>
 
 
 
